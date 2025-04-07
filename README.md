@@ -6,7 +6,7 @@ I'm Teja Pullagura, a passionate AWS & DevOps enthusiast eager to embark on a jo
 
 - 🎓 Recent Post graduate in Master of Computer Applications
 - 💼 Aspiring AWS Devops Engineer
-- 🌱 Currently learning AWS & DevOps
+- 🌱 Currently learning AWS & DevOps, POwer BI
 - 👀 Interested in:
   - Python Programming
   - SQL Database
