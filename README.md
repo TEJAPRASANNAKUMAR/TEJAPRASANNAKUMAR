@@ -46,7 +46,7 @@ I'm Teja Pullagura, a passionate AWS & DevOps enthusiast eager to embark on a jo
 - 📧 Email:
      - tejapullagura2000@gmail.com
 - 💼 LinkedIn:
-     - https://www.linkedin.com/in/teja-p9
+     - www.linkedin.com/in/teja-k-p9
 ## Contributions & Goals
 
 - 🔍 I'm interested in collaborating on open-source projects.
